@@ -1,2 +1,3 @@
 # list_newmedia_undergraduate_CN
-List of New Media Programs in China
+中国新媒体节目清单
+李金珊中山大学南方学院  
